@@ -7,3 +7,6 @@ git config --global --unset http.proxy
 
 
 ./gradlew signingReport
+
+
+will start working on same project with different State managements
